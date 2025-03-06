@@ -31,6 +31,13 @@ Es un sistema simple hecho con html, js, php y tailwind para los estilos, ademá
 Decidí hacer un formulario simple de ingreso de datos, pudiendo seleccionar si hacer una búsqueda, una inserción de datos, actualización y borrado de usuarios desde el mismo formulario, adaptado para que no tener que moverse de un lugar a otro.
 ![vistazo general del formulario](assets/others/generalView.png)
     
+
+### ☕️Lenguajes/tecnologías principales
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## ¿Cómo funciona?
 
 
