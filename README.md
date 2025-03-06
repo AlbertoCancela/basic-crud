@@ -68,6 +68,7 @@ Y una vez hecho eso... ¡se ha terminado con el despliegue de las funcionalidade
 
 ### 21.- CRUD USUARIOS, DIAGRAMAS Y BDD
 Al haber sido este repo un CRUD en sí mismo, dejo a continuación los enlaces e imágenes de mi diseño en figma (antes de comenzar a programar) y mis diagramas entidad-relación básicos de las tablas y su respectivo DDL en SQL.
+
 ![Diseño figma](assets/others/figma.png)
 ```
 https://www.figma.com/design/tkMPBi3bVPdmFimxvcaqCh/PSW-CRUD-usuarios?node-id=0-1&p=f&t=b3m2CSu27gprgtYU-0   
